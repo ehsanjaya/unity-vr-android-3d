@@ -1,0 +1,504 @@
+fileFormatVersion: 2
+guid: 78f226b825c99734f878f19374d9e0e7
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -3957824031720320456
+    second: Button Hover Red_0
+  - first:
+      213: 2116607882652033418
+    second: Button Hover Red_1
+  - first:
+      213: 7599161978218550984
+    second: Button Hover Red_2
+  - first:
+      213: -5750641518363790747
+    second: Button Hover Red_3
+  - first:
+      213: -7618626231930990331
+    second: Button Hover Red_4
+  - first:
+      213: -7751843588416945366
+    second: Button Hover Red_5
+  - first:
+      213: 5541478388219657612
+    second: Button Hover Red_6
+  - first:
+      213: -6418784691015361015
+    second: Button Hover Red_7
+  - first:
+      213: -4963548388600438611
+    second: Button Hover Red_8
+  - first:
+      213: -5869553690320577354
+    second: Button Hover Red_9
+  - first:
+      213: 6139182073552944054
+    second: Button Hover Red_10
+  - first:
+      213: 7214619868572627305
+    second: Button Hover Red_11
+  - first:
+      213: -1999714629685296346
+    second: Button Hover Red_12
+  - first:
+      213: 330249650983844529
+    second: Button Hover Red_13
+  - first:
+      213: -7883962774903827410
+    second: Button Hover Red_14
+  - first:
+      213: -4013880746885704869
+    second: Button Hover Red_15
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Button Hover Red_0
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 2892
+        width: 584
+        height: 265
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8325ec9330cf219c0800000000000000
+      internalID: -3957824031720320456
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Button Hover Red_1
+      rect:
+        serializedVersion: 2
+        x: 1005
+        y: 2892
+        width: 582
+        height: 265
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a81244ea7a3bf5d10800000000000000
+      internalID: 2116607882652033418
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Button Hover Red_2
+      rect:
+        serializedVersion: 2
+        x: 1868
+        y: 2892
+        width: 584
+        height: 265
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c61f5e9e85a57960800000000000000
+      internalID: 7599161978218550984
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Button Hover Red_3
+      rect:
+        serializedVersion: 2
+        x: 2733
+        y: 2892
+        width: 582
+        height: 265
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 562305bd10e9130b0800000000000000
+      internalID: -5750641518363790747
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Button Hover Red_4
+      rect:
+        serializedVersion: 2
+        x: 3596
+        y: 2892
+        width: 584
+        height: 265
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 501d749aec3354690800000000000000
+      internalID: -7618626231930990331
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Button Hover Red_5
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 2027
+        width: 584
+        height: 265
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a23c40ec35beb6490800000000000000
+      internalID: -7751843588416945366
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Button Hover Red_6
+      rect:
+        serializedVersion: 2
+        x: 1005
+        y: 2027
+        width: 582
+        height: 265
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c8d365ceb3947ec40800000000000000
+      internalID: 5541478388219657612
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Button Hover Red_7
+      rect:
+        serializedVersion: 2
+        x: 1868
+        y: 2027
+        width: 584
+        height: 265
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 90e505ae455ebe6a0800000000000000
+      internalID: -6418784691015361015
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Button Hover Red_8
+      rect:
+        serializedVersion: 2
+        x: 2733
+        y: 2027
+        width: 582
+        height: 265
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da02200e90fed1bb0800000000000000
+      internalID: -4963548388600438611
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Button Hover Red_9
+      rect:
+        serializedVersion: 2
+        x: 3596
+        y: 2027
+        width: 584
+        height: 265
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6bcdb5254082b8ea0800000000000000
+      internalID: -5869553690320577354
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Button Hover Red_10
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 1164
+        width: 584
+        height: 265
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6bbb191b191c23550800000000000000
+      internalID: 6139182073552944054
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Button Hover Red_11
+      rect:
+        serializedVersion: 2
+        x: 1005
+        y: 1164
+        width: 582
+        height: 265
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9613fb7bb8a7f1460800000000000000
+      internalID: 7214619868572627305
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Button Hover Red_12
+      rect:
+        serializedVersion: 2
+        x: 1868
+        y: 1164
+        width: 584
+        height: 265
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 623c475a3269f34e0800000000000000
+      internalID: -1999714629685296346
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Button Hover Red_13
+      rect:
+        serializedVersion: 2
+        x: 2733
+        y: 1164
+        width: 582
+        height: 265
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1bab61ece48459400800000000000000
+      internalID: 330249650983844529
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Button Hover Red_14
+      rect:
+        serializedVersion: 2
+        x: 3596
+        y: 1164
+        width: 584
+        height: 265
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e24547390a9869290800000000000000
+      internalID: -7883962774903827410
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Button Hover Red_15
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 299
+        width: 584
+        height: 265
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b5319172ab4db48c0800000000000000
+      internalID: -4013880746885704869
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 1f1ee7b7a79d8d64bbbf39bf6b64a717
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,504 @@
+fileFormatVersion: 2
+guid: 270a831ca9e90f44aac6f31d2cc4152b
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -4100816847200120666
+    second: Button Hover Green_0
+  - first:
+      213: -1421407025366982151
+    second: Button Hover Green_1
+  - first:
+      213: 4451530954747963252
+    second: Button Hover Green_2
+  - first:
+      213: 361946765912472856
+    second: Button Hover Green_3
+  - first:
+      213: -5094019151246634293
+    second: Button Hover Green_4
+  - first:
+      213: 8084952489436625519
+    second: Button Hover Green_5
+  - first:
+      213: -826417303495105363
+    second: Button Hover Green_6
+  - first:
+      213: 3960996563143990520
+    second: Button Hover Green_7
+  - first:
+      213: 4450831977705956739
+    second: Button Hover Green_8
+  - first:
+      213: 4699218924169759360
+    second: Button Hover Green_9
+  - first:
+      213: 7135121358355040438
+    second: Button Hover Green_10
+  - first:
+      213: 8785460381735883017
+    second: Button Hover Green_11
+  - first:
+      213: -3156903434420145083
+    second: Button Hover Green_12
+  - first:
+      213: -7885854359611814313
+    second: Button Hover Green_13
+  - first:
+      213: -4824636434656461595
+    second: Button Hover Green_14
+  - first:
+      213: -6643847294308799437
+    second: Button Hover Green_15
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Button Hover Green_0
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 2892
+        width: 585
+        height: 265
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a013b5fdc8f617c0800000000000000
+      internalID: -4100816847200120666
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Button Hover Green_1
+      rect:
+        serializedVersion: 2
+        x: 1005
+        y: 2892
+        width: 583
+        height: 265
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f1a1c367d5264ce0800000000000000
+      internalID: -1421407025366982151
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Button Hover Green_2
+      rect:
+        serializedVersion: 2
+        x: 1868
+        y: 2892
+        width: 584
+        height: 265
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 477686071d307cd30800000000000000
+      internalID: 4451530954747963252
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Button Hover Green_3
+      rect:
+        serializedVersion: 2
+        x: 2733
+        y: 2892
+        width: 584
+        height: 265
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 81d70d97aa4e50500800000000000000
+      internalID: 361946765912472856
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Button Hover Green_4
+      rect:
+        serializedVersion: 2
+        x: 3596
+        y: 2892
+        width: 584
+        height: 265
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc258ea32986e49b0800000000000000
+      internalID: -5094019151246634293
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Button Hover Green_5
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 2027
+        width: 585
+        height: 265
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f6ab7c60475833070800000000000000
+      internalID: 8084952489436625519
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Button Hover Green_6
+      rect:
+        serializedVersion: 2
+        x: 1005
+        y: 2027
+        width: 584
+        height: 265
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da420fc47d9f784f0800000000000000
+      internalID: -826417303495105363
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Button Hover Green_7
+      rect:
+        serializedVersion: 2
+        x: 1868
+        y: 2027
+        width: 584
+        height: 265
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8fc9dbe436948f630800000000000000
+      internalID: 3960996563143990520
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Button Hover Green_8
+      rect:
+        serializedVersion: 2
+        x: 2733
+        y: 2027
+        width: 584
+        height: 265
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 385ec1a2a1884cd30800000000000000
+      internalID: 4450831977705956739
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Button Hover Green_9
+      rect:
+        serializedVersion: 2
+        x: 3596
+        y: 2027
+        width: 584
+        height: 265
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 08a8ee8c6baf63140800000000000000
+      internalID: 4699218924169759360
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Button Hover Green_10
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 1164
+        width: 585
+        height: 265
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b80e0a621b050360800000000000000
+      internalID: 7135121358355040438
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Button Hover Green_11
+      rect:
+        serializedVersion: 2
+        x: 1005
+        y: 1164
+        width: 583
+        height: 265
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 90192a97ba93ce970800000000000000
+      internalID: 8785460381735883017
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Button Hover Green_12
+      rect:
+        serializedVersion: 2
+        x: 1868
+        y: 1164
+        width: 584
+        height: 265
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5443d296d0d6034d0800000000000000
+      internalID: -3156903434420145083
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Button Hover Green_13
+      rect:
+        serializedVersion: 2
+        x: 2733
+        y: 1164
+        width: 584
+        height: 265
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 75e4fd0bd31df8290800000000000000
+      internalID: -7885854359611814313
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Button Hover Green_14
+      rect:
+        serializedVersion: 2
+        x: 3596
+        y: 1164
+        width: 584
+        height: 265
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ecf4e589b27b0db0800000000000000
+      internalID: -4824636434656461595
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Button Hover Green_15
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 299
+        width: 585
+        height: 265
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 33ca8c026105cc3a0800000000000000
+      internalID: -6643847294308799437
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 48b8beb218dc5194b9e7db7f7d4a7b3e
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

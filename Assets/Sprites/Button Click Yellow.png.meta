@@ -1,0 +1,1320 @@
+fileFormatVersion: 2
+guid: bf77f372a76b2d1498d04c2bb54cafaf
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -7725375023965151410
+    second: Button Click Yellow_0
+  - first:
+      213: -6410888175605566526
+    second: Button Click Yellow_1
+  - first:
+      213: -8872410983302092761
+    second: Button Click Yellow_2
+  - first:
+      213: -3423223711910474215
+    second: Button Click Yellow_3
+  - first:
+      213: 4263456891781164367
+    second: Button Click Yellow_4
+  - first:
+      213: 6276962750856519083
+    second: Button Click Yellow_5
+  - first:
+      213: 6153288569064861555
+    second: Button Click Yellow_6
+  - first:
+      213: -2699750790597789064
+    second: Button Click Yellow_7
+  - first:
+      213: 5598695382564445340
+    second: Button Click Yellow_8
+  - first:
+      213: 5001614053264464494
+    second: Button Click Yellow_9
+  - first:
+      213: -2425318235526724739
+    second: Button Click Yellow_10
+  - first:
+      213: 6764084746365382989
+    second: Button Click Yellow_11
+  - first:
+      213: -2605716128444286036
+    second: Button Click Yellow_12
+  - first:
+      213: -9056803040328095191
+    second: Button Click Yellow_13
+  - first:
+      213: 3326889190105204672
+    second: Button Click Yellow_14
+  - first:
+      213: -8125987287480235003
+    second: Button Click Yellow_15
+  - first:
+      213: -2869564418612843970
+    second: Button Click Yellow_16
+  - first:
+      213: 4374882429240536902
+    second: Button Click Yellow_17
+  - first:
+      213: 5276912955413419228
+    second: Button Click Yellow_18
+  - first:
+      213: 8855344299384306557
+    second: Button Click Yellow_19
+  - first:
+      213: 3271544290308801425
+    second: Button Click Yellow_20
+  - first:
+      213: 5303517720904744134
+    second: Button Click Yellow_21
+  - first:
+      213: 241432493337136962
+    second: Button Click Yellow_22
+  - first:
+      213: -6556705817053264129
+    second: Button Click Yellow_23
+  - first:
+      213: 2795352879374677232
+    second: Button Click Yellow_24
+  - first:
+      213: 314250745020417394
+    second: Button Click Yellow_25
+  - first:
+      213: -5424204032032549456
+    second: Button Click Yellow_26
+  - first:
+      213: -1944633771415698207
+    second: Button Click Yellow_27
+  - first:
+      213: -900632300353961085
+    second: Button Click Yellow_28
+  - first:
+      213: -258240659159508177
+    second: Button Click Yellow_29
+  - first:
+      213: -3163759406119284362
+    second: Button Click Yellow_30
+  - first:
+      213: 3843734778045332616
+    second: Button Click Yellow_31
+  - first:
+      213: -9068181364147004392
+    second: Button Click Yellow_32
+  - first:
+      213: 8825757876988599092
+    second: Button Click Yellow_33
+  - first:
+      213: 5183300951894164862
+    second: Button Click Yellow_34
+  - first:
+      213: -7207328606597569992
+    second: Button Click Yellow_35
+  - first:
+      213: -7838880185858407245
+    second: Button Click Yellow_36
+  - first:
+      213: 2054017460208438234
+    second: Button Click Yellow_37
+  - first:
+      213: 8307755340688991752
+    second: Button Click Yellow_38
+  - first:
+      213: 6975511221507492338
+    second: Button Click Yellow_39
+  - first:
+      213: 1250032544203592359
+    second: Button Click Yellow_40
+  - first:
+      213: -3001749589728218120
+    second: Button Click Yellow_41
+  - first:
+      213: 7763747530122566322
+    second: Button Click Yellow_42
+  - first:
+      213: 8526799407403672152
+    second: Button Click Yellow_43
+  - first:
+      213: 7278774751643700566
+    second: Button Click Yellow_44
+  - first:
+      213: 1954722315514070634
+    second: Button Click Yellow_45
+  - first:
+      213: -7136801152102706469
+    second: Button Click Yellow_46
+  - first:
+      213: 153013928962163016
+    second: Button Click Yellow_47
+  - first:
+      213: -7309492077130569864
+    second: Button Click Yellow_48
+  - first:
+      213: 8839747200148235961
+    second: Button Click Yellow_49
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Button Click Yellow_0
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 4618
+        width: 585
+        height: 267
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e4fd1e3b854f9c490800000000000000
+      internalID: -7725375023965151410
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Button Click Yellow_1
+      rect:
+        serializedVersion: 2
+        x: 1003
+        y: 4618
+        width: 585
+        height: 267
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c3374eab23f707a0800000000000000
+      internalID: -6410888175605566526
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Button Click Yellow_2
+      rect:
+        serializedVersion: 2
+        x: 1868
+        y: 4618
+        width: 584
+        height: 267
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 728210ff73dded480800000000000000
+      internalID: -8872410983302092761
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Button Click Yellow_3
+      rect:
+        serializedVersion: 2
+        x: 2729
+        y: 4618
+        width: 590
+        height: 269
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 91ec1e8cb244e70d0800000000000000
+      internalID: -3423223711910474215
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Button Click Yellow_4
+      rect:
+        serializedVersion: 2
+        x: 3585
+        y: 4613
+        width: 607
+        height: 279
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f4daecd4477da2b30800000000000000
+      internalID: 4263456891781164367
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Button Click Yellow_5
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 3748
+        width: 610
+        height: 280
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bad59297d504c1750800000000000000
+      internalID: 6276962750856519083
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Button Click Yellow_6
+      rect:
+        serializedVersion: 2
+        x: 996
+        y: 3748
+        width: 600
+        height: 275
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 37f259f1a5fd46550800000000000000
+      internalID: 6153288569064861555
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Button Click Yellow_7
+      rect:
+        serializedVersion: 2
+        x: 1867
+        y: 3748
+        width: 585
+        height: 273
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87ab658b5fe888ad0800000000000000
+      internalID: -2699750790597789064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Button Click Yellow_8
+      rect:
+        serializedVersion: 2
+        x: 2454
+        y: 3975
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c9c9f5b89cf82bd40800000000000000
+      internalID: 5598695382564445340
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Button Click Yellow_9
+      rect:
+        serializedVersion: 2
+        x: 2732
+        y: 3748
+        width: 592
+        height: 273
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6a1e645b7d496540800000000000000
+      internalID: 5001614053264464494
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Button Click Yellow_10
+      rect:
+        serializedVersion: 2
+        x: 3595
+        y: 3748
+        width: 593
+        height: 273
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d7307282ae9875ed0800000000000000
+      internalID: -2425318235526724739
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Button Click Yellow_11
+      rect:
+        serializedVersion: 2
+        x: 1596
+        y: 3763
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d413fb93d3bdedd50800000000000000
+      internalID: 6764084746365382989
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Button Click Yellow_12
+      rect:
+        serializedVersion: 2
+        x: 2459
+        y: 3763
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cab7292acf2a6dbd0800000000000000
+      internalID: -2605716128444286036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Button Click Yellow_13
+      rect:
+        serializedVersion: 2
+        x: 3322
+        y: 3763
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 92ae09cae95cf4280800000000000000
+      internalID: -9056803040328095191
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Button Click Yellow_14
+      rect:
+        serializedVersion: 2
+        x: 4187
+        y: 3763
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c7ce4f771c7b2e20800000000000000
+      internalID: 3326889190105204672
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Button Click Yellow_15
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 2884
+        width: 593
+        height: 274
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 50c86688d91ba3f80800000000000000
+      internalID: -8125987287480235003
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Button Click Yellow_16
+      rect:
+        serializedVersion: 2
+        x: 1003
+        y: 2884
+        width: 593
+        height: 274
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3a2b786d524d28d0800000000000000
+      internalID: -2869564418612843970
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Button Click Yellow_17
+      rect:
+        serializedVersion: 2
+        x: 1868
+        y: 2884
+        width: 584
+        height: 274
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64feaf8e364b6bc30800000000000000
+      internalID: 4374882429240536902
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Button Click Yellow_18
+      rect:
+        serializedVersion: 2
+        x: 2454
+        y: 3112
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd4d21aef5c5b3940800000000000000
+      internalID: 5276912955413419228
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Button Click Yellow_19
+      rect:
+        serializedVersion: 2
+        x: 2732
+        y: 2884
+        width: 592
+        height: 274
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d7bf49009b084ea70800000000000000
+      internalID: 8855344299384306557
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Button Click Yellow_20
+      rect:
+        serializedVersion: 2
+        x: 3595
+        y: 2884
+        width: 593
+        height: 274
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 19340dad23cd66d20800000000000000
+      internalID: 3271544290308801425
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Button Click Yellow_21
+      rect:
+        serializedVersion: 2
+        x: 730
+        y: 2900
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6cc34869441e99940800000000000000
+      internalID: 5303517720904744134
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Button Click Yellow_22
+      rect:
+        serializedVersion: 2
+        x: 1596
+        y: 2900
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 24fc892d29db95300800000000000000
+      internalID: 241432493337136962
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Button Click Yellow_23
+      rect:
+        serializedVersion: 2
+        x: 2459
+        y: 2900
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff68dcd5cc6e105a0800000000000000
+      internalID: -6556705817053264129
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Button Click Yellow_24
+      rect:
+        serializedVersion: 2
+        x: 3322
+        y: 2900
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f43ef422a61bc620800000000000000
+      internalID: 2795352879374677232
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Button Click Yellow_25
+      rect:
+        serializedVersion: 2
+        x: 4187
+        y: 2900
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 275085b33617c5400800000000000000
+      internalID: 314250745020417394
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Button Click Yellow_26
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 2019
+        width: 593
+        height: 274
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b55579eb2b59b4b0800000000000000
+      internalID: -5424204032032549456
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Button Click Yellow_27
+      rect:
+        serializedVersion: 2
+        x: 1003
+        y: 2019
+        width: 593
+        height: 274
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e40a8453e54305e0800000000000000
+      internalID: -1944633771415698207
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Button Click Yellow_28
+      rect:
+        serializedVersion: 2
+        x: 1868
+        y: 2019
+        width: 584
+        height: 274
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 383c820d1bf4083f0800000000000000
+      internalID: -900632300353961085
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Button Click Yellow_29
+      rect:
+        serializedVersion: 2
+        x: 2454
+        y: 2247
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f2b1c3c1d7b8a6cf0800000000000000
+      internalID: -258240659159508177
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Button Click Yellow_30
+      rect:
+        serializedVersion: 2
+        x: 2732
+        y: 2019
+        width: 592
+        height: 274
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 671957b15911814d0800000000000000
+      internalID: -3163759406119284362
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Button Click Yellow_31
+      rect:
+        serializedVersion: 2
+        x: 3595
+        y: 2019
+        width: 593
+        height: 274
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 88cf4386a60b75530800000000000000
+      internalID: 3843734778045332616
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Button Click Yellow_32
+      rect:
+        serializedVersion: 2
+        x: 730
+        y: 2036
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 81c53373819572280800000000000000
+      internalID: -9068181364147004392
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Button Click Yellow_33
+      rect:
+        serializedVersion: 2
+        x: 1596
+        y: 2036
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43bd28b37046b7a70800000000000000
+      internalID: 8825757876988599092
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Button Click Yellow_34
+      rect:
+        serializedVersion: 2
+        x: 2459
+        y: 2036
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e758891e0c8cee740800000000000000
+      internalID: 5183300951894164862
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Button Click Yellow_35
+      rect:
+        serializedVersion: 2
+        x: 3322
+        y: 2036
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 832ad3081dc6afb90800000000000000
+      internalID: -7207328606597569992
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Button Click Yellow_36
+      rect:
+        serializedVersion: 2
+        x: 4187
+        y: 2036
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b4cf0dc004b63390800000000000000
+      internalID: -7838880185858407245
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Button Click Yellow_37
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 1156
+        width: 593
+        height: 273
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: adb8c265ff5518c10800000000000000
+      internalID: 2054017460208438234
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Button Click Yellow_38
+      rect:
+        serializedVersion: 2
+        x: 1003
+        y: 1156
+        width: 593
+        height: 273
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8062f9a47731b4370800000000000000
+      internalID: 8307755340688991752
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Button Click Yellow_39
+      rect:
+        serializedVersion: 2
+        x: 1868
+        y: 1156
+        width: 584
+        height: 273
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f984b48f7efdc060800000000000000
+      internalID: 6975511221507492338
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Button Click Yellow_40
+      rect:
+        serializedVersion: 2
+        x: 2454
+        y: 1383
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a2deead9f1095110800000000000000
+      internalID: 1250032544203592359
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Button Click Yellow_41
+      rect:
+        serializedVersion: 2
+        x: 2732
+        y: 1156
+        width: 592
+        height: 273
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f3339fe6a4a756d0800000000000000
+      internalID: -3001749589728218120
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Button Click Yellow_42
+      rect:
+        serializedVersion: 2
+        x: 3595
+        y: 1156
+        width: 593
+        height: 273
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ba95ca9e3f5ebb60800000000000000
+      internalID: 7763747530122566322
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Button Click Yellow_43
+      rect:
+        serializedVersion: 2
+        x: 730
+        y: 1171
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 852ae4552e6455670800000000000000
+      internalID: 8526799407403672152
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Button Click Yellow_44
+      rect:
+        serializedVersion: 2
+        x: 1596
+        y: 1171
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65d0ecf6217630560800000000000000
+      internalID: 7278774751643700566
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Button Click Yellow_45
+      rect:
+        serializedVersion: 2
+        x: 2459
+        y: 1171
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a66ceb2e691902b10800000000000000
+      internalID: 1954722315514070634
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Button Click Yellow_46
+      rect:
+        serializedVersion: 2
+        x: 3322
+        y: 1171
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd2d1502a2df4fc90800000000000000
+      internalID: -7136801152102706469
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Button Click Yellow_47
+      rect:
+        serializedVersion: 2
+        x: 4187
+        y: 1171
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8410a719b5d9f1200800000000000000
+      internalID: 153013928962163016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Button Click Yellow_48
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 292
+        width: 593
+        height: 274
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 877a916eea77f8a90800000000000000
+      internalID: -7309492077130569864
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Button Click Yellow_49
+      rect:
+        serializedVersion: 2
+        x: 730
+        y: 308
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b6e6195e371daa70800000000000000
+      internalID: 8839747200148235961
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 6f6aab0664f7905448f15fec528f521a
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,1008 @@
+fileFormatVersion: 2
+guid: 2e3cd587914490d419cc96398dee240e
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -6604001995123201999
+    second: Button Click Red_0
+  - first:
+      213: 81256811356966776
+    second: Button Click Red_1
+  - first:
+      213: 9188282852180716451
+    second: Button Click Red_2
+  - first:
+      213: -5260561824544384793
+    second: Button Click Red_3
+  - first:
+      213: -6907626813684829679
+    second: Button Click Red_4
+  - first:
+      213: -3881816059867807651
+    second: Button Click Red_5
+  - first:
+      213: 1066503379832084964
+    second: Button Click Red_6
+  - first:
+      213: 4764709278598434747
+    second: Button Click Red_7
+  - first:
+      213: 8059158933881105979
+    second: Button Click Red_8
+  - first:
+      213: 5643372858319164228
+    second: Button Click Red_9
+  - first:
+      213: -7028311923766342091
+    second: Button Click Red_10
+  - first:
+      213: -2891158590125953970
+    second: Button Click Red_11
+  - first:
+      213: -3786881617575814316
+    second: Button Click Red_12
+  - first:
+      213: 6927309518769748797
+    second: Button Click Red_13
+  - first:
+      213: -5175834463548605389
+    second: Button Click Red_14
+  - first:
+      213: 5619749654399111151
+    second: Button Click Red_15
+  - first:
+      213: -5200454327984863469
+    second: Button Click Red_16
+  - first:
+      213: -2221852899622917708
+    second: Button Click Red_17
+  - first:
+      213: -1870890384127593167
+    second: Button Click Red_18
+  - first:
+      213: 1995608440931726694
+    second: Button Click Red_19
+  - first:
+      213: -6839770245447490631
+    second: Button Click Red_20
+  - first:
+      213: 815115581663874903
+    second: Button Click Red_21
+  - first:
+      213: -6244551671565710402
+    second: Button Click Red_22
+  - first:
+      213: -6948717862214407503
+    second: Button Click Red_23
+  - first:
+      213: -5685102128103840453
+    second: Button Click Red_24
+  - first:
+      213: -5315490505771473724
+    second: Button Click Red_25
+  - first:
+      213: -5512505036106578374
+    second: Button Click Red_26
+  - first:
+      213: 5784789381185412511
+    second: Button Click Red_27
+  - first:
+      213: 4860277235368349975
+    second: Button Click Red_28
+  - first:
+      213: 7104924258201891985
+    second: Button Click Red_29
+  - first:
+      213: -7039190975317318912
+    second: Button Click Red_30
+  - first:
+      213: 7965713794050800534
+    second: Button Click Red_31
+  - first:
+      213: -1950276343584662626
+    second: Button Click Red_32
+  - first:
+      213: -7515916580282983556
+    second: Button Click Red_33
+  - first:
+      213: -2711767995465803160
+    second: Button Click Red_34
+  - first:
+      213: 9113885691961572916
+    second: Button Click Red_35
+  - first:
+      213: -3941695786582899509
+    second: Button Click Red_36
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Button Click Red_0
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 4618
+        width: 585
+        height: 267
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 138e5b8cc2fd954a0800000000000000
+      internalID: -6604001995123201999
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Button Click Red_1
+      rect:
+        serializedVersion: 2
+        x: 1003
+        y: 4618
+        width: 585
+        height: 267
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87f4380b3aea02100800000000000000
+      internalID: 81256811356966776
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Button Click Red_2
+      rect:
+        serializedVersion: 2
+        x: 1868
+        y: 4618
+        width: 584
+        height: 267
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ab6b0c8296538f70800000000000000
+      internalID: 9188282852180716451
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Button Click Red_3
+      rect:
+        serializedVersion: 2
+        x: 2729
+        y: 4618
+        width: 590
+        height: 269
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e81d0964eabef6b0800000000000000
+      internalID: -5260561824544384793
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Button Click Red_4
+      rect:
+        serializedVersion: 2
+        x: 3585
+        y: 4613
+        width: 607
+        height: 279
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1123a59d20e2320a0800000000000000
+      internalID: -6907626813684829679
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Button Click Red_5
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 3748
+        width: 610
+        height: 280
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d504c2c3cd4012ac0800000000000000
+      internalID: -3881816059867807651
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Button Click Red_6
+      rect:
+        serializedVersion: 2
+        x: 996
+        y: 3748
+        width: 605
+        height: 278
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e915a26c2bfcce00800000000000000
+      internalID: 1066503379832084964
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Button Click Red_7
+      rect:
+        serializedVersion: 2
+        x: 1867
+        y: 3748
+        width: 594
+        height: 273
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bbf0ed828d5af1240800000000000000
+      internalID: 4764709278598434747
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Button Click Red_8
+      rect:
+        serializedVersion: 2
+        x: 2456
+        y: 3988
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b3e2662e952e7df60800000000000000
+      internalID: 8059158933881105979
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Button Click Red_9
+      rect:
+        serializedVersion: 2
+        x: 2732
+        y: 3748
+        width: 597
+        height: 273
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 443d13bf6b9415e40800000000000000
+      internalID: 5643372858319164228
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Button Click Red_10
+      rect:
+        serializedVersion: 2
+        x: 3595
+        y: 3748
+        width: 598
+        height: 273
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 53ec34dfa8b667e90800000000000000
+      internalID: -7028311923766342091
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Button Click Red_11
+      rect:
+        serializedVersion: 2
+        x: 2454
+        y: 3773
+        width: 12
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e4c293e849a80e7d0800000000000000
+      internalID: -2891158590125953970
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Button Click Red_12
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 2884
+        width: 598
+        height: 274
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45bdfe98b3b427bc0800000000000000
+      internalID: -3786881617575814316
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Button Click Red_13
+      rect:
+        serializedVersion: 2
+        x: 1003
+        y: 2884
+        width: 598
+        height: 274
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d3bf37b0e4fb22060800000000000000
+      internalID: 6927309518769748797
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Button Click Red_14
+      rect:
+        serializedVersion: 2
+        x: 1868
+        y: 2884
+        width: 586
+        height: 274
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 33cf5f76afdbb28b0800000000000000
+      internalID: -5175834463548605389
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Button Click Red_15
+      rect:
+        serializedVersion: 2
+        x: 2456
+        y: 3125
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fef4515398c5dfd40800000000000000
+      internalID: 5619749654399111151
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Button Click Red_16
+      rect:
+        serializedVersion: 2
+        x: 2732
+        y: 2884
+        width: 597
+        height: 274
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 317c1d5875644d7b0800000000000000
+      internalID: -5200454327984863469
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Button Click Red_17
+      rect:
+        serializedVersion: 2
+        x: 3595
+        y: 2884
+        width: 598
+        height: 274
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b9edc64f846a21e0800000000000000
+      internalID: -2221852899622917708
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Button Click Red_18
+      rect:
+        serializedVersion: 2
+        x: 2454
+        y: 3105
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1357168ab134906e0800000000000000
+      internalID: -1870890384127593167
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Button Click Red_19
+      rect:
+        serializedVersion: 2
+        x: 2454
+        y: 3009
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 665b188cd43d1bb10800000000000000
+      internalID: 1995608440931726694
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Button Click Red_20
+      rect:
+        serializedVersion: 2
+        x: 2454
+        y: 2957
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b3e0de43314411a0800000000000000
+      internalID: -6839770245447490631
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Button Click Red_21
+      rect:
+        serializedVersion: 2
+        x: 2454
+        y: 2910
+        width: 12
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 75f06f78d4fdf4b00800000000000000
+      internalID: 815115581663874903
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Button Click Red_22
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 2019
+        width: 598
+        height: 274
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ebb01caf655e659a0800000000000000
+      internalID: -6244551671565710402
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Button Click Red_23
+      rect:
+        serializedVersion: 2
+        x: 1003
+        y: 2019
+        width: 598
+        height: 274
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ba6c429be1319f90800000000000000
+      internalID: -6948717862214407503
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Button Click Red_24
+      rect:
+        serializedVersion: 2
+        x: 1868
+        y: 2019
+        width: 593
+        height: 274
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b35ad864cb57a11b0800000000000000
+      internalID: -5685102128103840453
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Button Click Red_25
+      rect:
+        serializedVersion: 2
+        x: 2456
+        y: 2262
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c4a7843c859b36b0800000000000000
+      internalID: -5315490505771473724
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Button Click Red_26
+      rect:
+        serializedVersion: 2
+        x: 2732
+        y: 2019
+        width: 597
+        height: 274
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a36c05c40e5af73b0800000000000000
+      internalID: -5512505036106578374
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Button Click Red_27
+      rect:
+        serializedVersion: 2
+        x: 3595
+        y: 2019
+        width: 598
+        height: 274
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f9d12060b43b74050800000000000000
+      internalID: 5784789381185412511
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Button Click Red_28
+      rect:
+        serializedVersion: 2
+        x: 2454
+        y: 2044
+        width: 12
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7115c0c056c237340800000000000000
+      internalID: 4860277235368349975
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Button Click Red_29
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 1156
+        width: 598
+        height: 273
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 194fd2628f2c99260800000000000000
+      internalID: 7104924258201891985
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Button Click Red_30
+      rect:
+        serializedVersion: 2
+        x: 1003
+        y: 1156
+        width: 598
+        height: 273
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 003631a6a15cf4e90800000000000000
+      internalID: -7039190975317318912
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Button Click Red_31
+      rect:
+        serializedVersion: 2
+        x: 1868
+        y: 1156
+        width: 593
+        height: 273
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 69bb3d4dd76eb8e60800000000000000
+      internalID: 7965713794050800534
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Button Click Red_32
+      rect:
+        serializedVersion: 2
+        x: 2456
+        y: 1396
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9bd9ce9ff93fe4e0800000000000000
+      internalID: -1950276343584662626
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Button Click Red_33
+      rect:
+        serializedVersion: 2
+        x: 2732
+        y: 1156
+        width: 597
+        height: 273
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c7b93c6f0b912b790800000000000000
+      internalID: -7515916580282983556
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Button Click Red_34
+      rect:
+        serializedVersion: 2
+        x: 3595
+        y: 1156
+        width: 598
+        height: 273
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 86adcfc206ddd5ad0800000000000000
+      internalID: -2711767995465803160
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Button Click Red_35
+      rect:
+        serializedVersion: 2
+        x: 2454
+        y: 1181
+        width: 12
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43e72e8dfb60b7e70800000000000000
+      internalID: 9113885691961572916
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Button Click Red_36
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 292
+        width: 598
+        height: 274
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc4821ce0984c49c0800000000000000
+      internalID: -3941695786582899509
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: eb984f5b65d06aa429de98927b1c7177
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

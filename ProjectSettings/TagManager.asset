@@ -1,0 +1,53 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Door
+  - Obstacle
+  - Window
+  - Prop
+  - Enemy
+  - Floors
+  - Way Point
+  - Bullet Hole
+  - Bullet
+  - MapCamera
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - Door
+  - Water
+  - UI
+  - Dirt
+  - Brick
+  - Bullet Hole
+  - Wood
+  - Glass
+  - Iron
+  - Bullet
+  - MainCamera
+  - MapCamera
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0

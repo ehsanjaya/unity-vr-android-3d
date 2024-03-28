@@ -1,0 +1,60 @@
+[api-updater (non-obsolete-error-filter)] 11/14/2023 4:44:37 PM : Starting C:/Users/ehsan/Documents/unity/2020.3.15f2/Editor/Data/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 1190.4501ms
+moved types parse time: 46ms
+candidates parse time : 1ms
+C# parse time         : 268ms
+candidates check time : 24ms
+console write time    : 0ms
+
+[api-updater (non-obsolete-error-filter)] 12/1/2023 6:03:42 AM : Starting C:/Users/ehsan/Documents/unity/2020.3.15f2/Editor/Data/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 1113.8649ms
+moved types parse time: 45ms
+candidates parse time : 0ms
+C# parse time         : 204ms
+candidates check time : 29ms
+console write time    : 0ms
+
+[api-updater (non-obsolete-error-filter)] 12/6/2023 3:21:22 PM : Starting C:/Users/ehsan/Documents/unity/2020.3.15f2/Editor/Data/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 1234.9017ms
+moved types parse time: 48ms
+candidates parse time : 1ms
+C# parse time         : 295ms
+candidates check time : 29ms
+console write time    : 0ms
+
+[api-updater (non-obsolete-error-filter)] 12/22/2023 7:51:01 PM : Starting C:/Users/ehsan/Documents/unity/2020.3.15f2/Editor/Data/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 1001.8651ms
+moved types parse time: 50ms
+candidates parse time : 0ms
+C# parse time         : 300ms
+candidates check time : 44ms
+console write time    : 0ms
+
+[api-updater (non-obsolete-error-filter)] 1/4/2024 3:03:06 PM : Starting C:/Users/ehsan/Documents/unity/2020.3.15f2/Editor/Data/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 1198.7971ms
+moved types parse time: 47ms
+candidates parse time : 0ms
+C# parse time         : 207ms
+candidates check time : 25ms
+console write time    : 1ms
+
+[api-updater (non-obsolete-error-filter)] 1/4/2024 3:03:28 PM : Starting C:/Users/ehsan/Documents/unity/2020.3.15f2/Editor/Data/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 48.9285ms
+moved types parse time: 45ms
+candidates parse time : 1ms
+C# parse time         : 151ms
+candidates check time : 26ms
+console write time    : 0ms
+

@@ -1,0 +1,504 @@
+fileFormatVersion: 2
+guid: 56a336abd8fec7441ab5985514c3c642
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 4959691114533579130
+    second: Button Hover Yellow_0
+  - first:
+      213: -4246807067298333636
+    second: Button Hover Yellow_1
+  - first:
+      213: -2215679247138990221
+    second: Button Hover Yellow_2
+  - first:
+      213: -1896907725821718212
+    second: Button Hover Yellow_3
+  - first:
+      213: -4257995794898013013
+    second: Button Hover Yellow_4
+  - first:
+      213: 8551007380933551537
+    second: Button Hover Yellow_5
+  - first:
+      213: -8624822008700299463
+    second: Button Hover Yellow_6
+  - first:
+      213: -3459041614378578223
+    second: Button Hover Yellow_7
+  - first:
+      213: -4947406833111533072
+    second: Button Hover Yellow_8
+  - first:
+      213: -6815776542559374020
+    second: Button Hover Yellow_9
+  - first:
+      213: 168915121840032131
+    second: Button Hover Yellow_10
+  - first:
+      213: 6781250292583282000
+    second: Button Hover Yellow_11
+  - first:
+      213: -1954017121555714232
+    second: Button Hover Yellow_12
+  - first:
+      213: -9110495140515346451
+    second: Button Hover Yellow_13
+  - first:
+      213: 8213187059731593863
+    second: Button Hover Yellow_14
+  - first:
+      213: -619781381871281795
+    second: Button Hover Yellow_15
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Button Hover Yellow_0
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 2892
+        width: 584
+        height: 265
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a796f658acc54d440800000000000000
+      internalID: 4959691114533579130
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Button Hover Yellow_1
+      rect:
+        serializedVersion: 2
+        x: 1005
+        y: 2892
+        width: 582
+        height: 265
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c3c701c097f4015c0800000000000000
+      internalID: -4246807067298333636
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Button Hover Yellow_2
+      rect:
+        serializedVersion: 2
+        x: 1868
+        y: 2892
+        width: 584
+        height: 265
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3775312c6735041e0800000000000000
+      internalID: -2215679247138990221
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Button Hover Yellow_3
+      rect:
+        serializedVersion: 2
+        x: 2733
+        y: 2892
+        width: 582
+        height: 265
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c31d3be3974dca5e0800000000000000
+      internalID: -1896907725821718212
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Button Hover Yellow_4
+      rect:
+        serializedVersion: 2
+        x: 3596
+        y: 2892
+        width: 584
+        height: 265
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba43ff5626f88e4c0800000000000000
+      internalID: -4257995794898013013
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Button Hover Yellow_5
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 2027
+        width: 584
+        height: 265
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b5a94468e74ba670800000000000000
+      internalID: 8551007380933551537
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Button Hover Yellow_6
+      rect:
+        serializedVersion: 2
+        x: 1005
+        y: 2027
+        width: 582
+        height: 265
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9379270541a7e4880800000000000000
+      internalID: -8624822008700299463
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Button Hover Yellow_7
+      rect:
+        serializedVersion: 2
+        x: 1868
+        y: 2027
+        width: 584
+        height: 265
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1decbaf7af30fffc0800000000000000
+      internalID: -3459041614378578223
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Button Hover Yellow_8
+      rect:
+        serializedVersion: 2
+        x: 2733
+        y: 2027
+        width: 582
+        height: 265
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f9fb01a2b7475bb0800000000000000
+      internalID: -4947406833111533072
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Button Hover Yellow_9
+      rect:
+        serializedVersion: 2
+        x: 3596
+        y: 2027
+        width: 584
+        height: 265
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c35fe48985f7961a0800000000000000
+      internalID: -6815776542559374020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Button Hover Yellow_10
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 1164
+        width: 584
+        height: 265
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 389877a886b185200800000000000000
+      internalID: 168915121840032131
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Button Hover Yellow_11
+      rect:
+        serializedVersion: 2
+        x: 1005
+        y: 1164
+        width: 582
+        height: 265
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 055b0766637db1e50800000000000000
+      internalID: 6781250292583282000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Button Hover Yellow_12
+      rect:
+        serializedVersion: 2
+        x: 1868
+        y: 1164
+        width: 584
+        height: 265
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 84fe3a0e7cfe1e4e0800000000000000
+      internalID: -1954017121555714232
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Button Hover Yellow_13
+      rect:
+        serializedVersion: 2
+        x: 2733
+        y: 1164
+        width: 582
+        height: 265
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de709ad60f4019180800000000000000
+      internalID: -9110495140515346451
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Button Hover Yellow_14
+      rect:
+        serializedVersion: 2
+        x: 3596
+        y: 1164
+        width: 584
+        height: 265
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 78af2219d1a1bf170800000000000000
+      internalID: 8213187059731593863
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Button Hover Yellow_15
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 299
+        width: 584
+        height: 265
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d79592fed181667f0800000000000000
+      internalID: -619781381871281795
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: f7d3aa2a312317045b862c675be1c86a
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
